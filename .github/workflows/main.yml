@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Build
-        run: build
+        run: ./build
